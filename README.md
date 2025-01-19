@@ -181,5 +181,5 @@ impl Order {
 ## 联系
 
 如有问题或建议，请联系：  
-- 邮箱：pyreymo@example.com  
+- 邮箱：pyreymo@gmail.com  
 - GitHub: [pyreymo](https://github.com/pyreymo)
